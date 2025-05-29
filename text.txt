@@ -1,0 +1,7 @@
+🗓️ Daily Journal – write or speak your day, store with embedding.
+
+🧠 Memory Vault – store past people, places, events (text + images).
+
+🧍‍♂️ Face Recognition – identify known people with OpenCV.
+
+🤖 Voice Assistant Chat – smalltalk bot to reduce loneliness.
